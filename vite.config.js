@@ -5,3 +5,4 @@ export default defineConfig({
   base: '/Lockify-Pro99/',  // ⚠️ Important: add the trailing slash
   plugins: [react()],
 })
+
